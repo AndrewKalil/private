@@ -1,0 +1,21 @@
+{
+    "champ_class": "Fighter",
+    "name": "Sasuke",
+    "race": "Elf",
+    "gender": "Male",
+    "element": "Arc",
+    "health": 100,
+    "attack": 35,
+    "defence": 65,
+    "magic": 0,
+    "weapon": "sword and shield",
+    "armor": "heavy",
+    "speed": 3,
+    "dmg_reduction": 10,
+    "Level": 2,
+    "EXP_N_L": 30,
+    "C_EXP": 0,
+    "T_EXP": 30,
+    "S_Points": 3,
+    "id": 2
+}

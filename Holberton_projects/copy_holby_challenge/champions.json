@@ -1,0 +1,88 @@
+{
+    "Heroes": [
+        {
+            "id": "0",
+            "class": "Fighter",
+            "Name": "Pekka",
+            "Gender": "Gay",
+            "Level": 0,
+            "Health": 100,
+            "Attack": 45,
+            "Defense": 75,
+            "Armor": "Heavy Armor",
+            "Weapon": "Sword",
+            "Magic": "None",
+            "Speed": 3
+        },
+        {
+            "id": "1",
+            "class": "Mage",
+            "Name": "Merlin",
+            "Gender": "Female",
+            "Level": 0,
+            "Health": 100,
+            "Attack": 5,
+            "Defense": 20,
+            "Armor": "Medium Armor",
+            "Weapon": "staff",
+            "Magic": 60,
+            "Speed": 10
+        },
+        {
+            "id": "2",
+            "class": "Rogue",
+            "Name": "Sasuke",
+            "Gender": "other",
+            "Level": 0,
+            "Health": 100,
+            "Attack": 80,
+            "Defense": 30,
+            "Armor": "Light Armor",
+            "Weapon": "daggers",
+            "Magic": "None",
+            "Speed": 15
+        },
+        {
+            "id": "3",
+            "class": "Fighter",
+            "Name": "Goku",
+            "Gender": "Male",
+            "Level": 0,
+            "Health": 100,
+            "Attack": 45,
+            "Defense": 30,
+            "Armor": "Heavy Armor",
+            "Weapon": "Sword",
+            "Magic": "None",
+            "Speed": 5
+        },
+        {
+            "id": "4",
+            "class": "Mage",
+            "Name": "Cleopatra",
+            "Gender": "Female",
+            "Level": 0,
+            "Health": 100,
+            "Attack": 7,
+            "Defense": 20,
+            "Armor": "Medium Armor",
+            "Weapon": "staff",
+            "Magic": 63,
+            "Speed": 10
+        },
+        {
+            "id": "5",
+            "class": "Rogue",
+            "Name": "Homero",
+            "Gender": "Male",
+            "Level": 0,
+            "Health": 100,
+            "Attack": 81,
+            "Defense": 30,
+            "Armor": "Light Armor",
+            "Weapon": "daggers",
+            "Magic": "None",
+            "Speed": 15
+        }
+    ]
+}

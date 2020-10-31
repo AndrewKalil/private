@@ -1,0 +1,21 @@
+{
+    "champ_class": "Mage",
+    "name": "Andrew",
+    "race": "Human",
+    "gender": "Male",
+    "element": "Void",
+    "health": 100,
+    "attack": 0,
+    "defence": 35,
+    "magic": 65,
+    "weapon": "staff",
+    "armor": "medium",
+    "speed": 6,
+    "dmg_reduction": 6,
+    "Level": 1,
+    "EXP_N_L": 10,
+    "C_EXP": 0,
+    "T_EXP": 0,
+    "S_Points": 0,
+    "id": 1
+}

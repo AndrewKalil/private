@@ -1,0 +1,99 @@
+.myRcard {
+    height: 400px;
+    width: 310px;
+    background-color: lavender;
+    margin: 35px 30px 35px 30px;
+    position: relative;
+    transition: transform 0.7s;
+    border-radius: 10px;
+    box-shadow: 0 10px 35px rgb(129, 119, 119),0 2px 15px rgba(0,0,0,.07);
+    padding: 7px 7px 10px 7px;
+
+}
+
+.myRcard:hover {
+    transform: scale(1.15);
+    cursor: pointer;
+}
+
+.myRcardImg {
+    width: 100%;
+    margin: auto;
+    height: 170px;
+    background-color: lightseagreen;
+    border-radius: 10px;
+}
+
+.myRcardTitleandClock{
+    display: flex;
+    width: 100%;
+    align-content: center;
+}
+
+.myRcardTitle {
+    background-color: inherit;
+    margin-left: 75px;
+    margin-top: 12px;
+    width: 140px;
+    height: 25px;
+    align-content: center;
+    text-align: center;
+}
+
+.myRcardTitle > p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+}
+
+.myClock {
+    height: 40px;
+    width: 40px;
+    background-image: url("https://www.flaticon.com/svg/static/icons/svg/154/154448.svg");
+    margin-left: 25px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+.myClock > div {
+    height: 18px;
+    width: 40px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    font-weight: bolder;
+    align-items: center;
+    justify-content: center;
+    margin-top: 35px;
+}
+
+.myRcardText {
+    height: 100px;
+    width: 100%;
+    background-color: inherit;
+    padding: 7px 10px 7px 10px;
+    margin-top: 10px;
+}
+
+.myRcardText > p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+.myRcardButton {
+    width: 25%;
+    margin: auto;
+    background-color: lightblue;
+    height: 10%;
+    margin-top: 10px;
+    align-content: center;
+    text-align: center;
+    padding-top: 6px;
+    border-radius: 5px;
+}
+
+.myRcardButton > p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: large;
+}
